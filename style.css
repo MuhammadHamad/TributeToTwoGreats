@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(82, 83, 79);
+}
+
+.header {
+    color: rgb(247, 114, 165);
+    margin-left: 350px;
+    font-size: 38px;
+    font-family: 'Satisfy', cursive;
+    text-decoration: overline underline;
+}
+
+.Elon-Musk {
+    margin-left: 10px;
+}
+
+h1 {
+    margin-left: 85px;
+    color: #337ab7;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-left: 70px;
+    color: rgb(126, 190, 126);
+    font-size: 30px;
+
+}
+
+
+.Elon-Musk img {
+    height: 250px;
+    width: 280px;
+    margin-left: 40px;
+    margin-top: -20px;
+    border-radius: 5px;
+    box-shadow: 10px solid black;
+}
+
+
+p {
+
+    margin-top: 0px;
+    font-weight: bold;
+}
+
+
+button {
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 95px;
+    padding: 8px 40px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(65, 207, 124);
+    border: 3px solid white;
+    border-radius: 7px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+.Steve-Jobs {
+    margin-left: 970px;
+    margin-top: -450px;
+
+}
+
+.Steve-Jobs img {
+    height: 250px;
+    width: 280px;
+    margin-left: 40px;
+    margin-top: -20px;
+    border-radius: 5px;
+    box-shadow: 10px solid black;
+}
+
+.innovation img {
+    height: 230px;
+    width: 390px;
+    margin-left: 450px;
+    margin-top: -440px;
+    vertical-align: top;
+    border: 5px solid lightcoral;
+    border-radius: 10px;
+}
+
+.innovation2 img {
+    height: 240px;
+    width: 390px;
+    margin-left: 450px;
+    margin-top: -210px;
+    vertical-align: top;
+    border: 5px solid lightcoral;
+    border-radius: 10px;
+}
