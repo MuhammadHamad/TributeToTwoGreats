@@ -35,7 +35,6 @@ h2 {
 
 }
 
-
 .Elon-Musk img {
     height: 250px;
     width: 280px;
@@ -45,13 +44,11 @@ h2 {
     box-shadow: 10px solid black;
 }
 
-
 p {
 
     margin-top: 0px;
     font-weight: bold;
 }
-
 
 button {
     cursor: pointer;
