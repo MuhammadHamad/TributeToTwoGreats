@@ -28,7 +28,7 @@ h1 {
     font-family: sans-serif;
 }
 
-h2 {
+.Elon-Musk h2 {
     margin-left: 70px;
     color: rgb(126, 190, 126);
     font-size: 30px;
@@ -69,6 +69,13 @@ button:hover {
 .Steve-Jobs {
     margin-left: 970px;
     margin-top: -450px;
+
+}
+
+.Steve-Jobs h2 {
+    margin-left: 130px;
+    color: rgb(126, 190, 126);
+    font-size: 30px;
 
 }
 
